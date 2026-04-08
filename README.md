@@ -1,6 +1,6 @@
 # CollabDesk 
 
-A simple team collaboration tool .
+A simple team collaboration tool.
 
 ---
 
