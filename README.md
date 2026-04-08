@@ -50,9 +50,7 @@ This project is mainly built for learning purposes, but it’s structured in a w
 **Auth**
 
 * JWT
-
 ---
-
 ## Project Structure
 
 ```
