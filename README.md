@@ -22,7 +22,6 @@ This project is mainly built for learning purposes, but it’s structured in a w
 * Simple dashboard to track progress
 
 ---
-
 ## Screenshots
 
 *(Will add once UI is ready)*
