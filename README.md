@@ -20,7 +20,6 @@ This project is mainly built for learning purposes, but it’s structured in a w
 * Assign tasks to team members
 * Task status (To Do, In Progress, Done)
 * Simple dashboard to track progress
-
 ---
 ## Screenshots
 
