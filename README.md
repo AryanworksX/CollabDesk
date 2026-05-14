@@ -112,4 +112,4 @@ This is a learning project, so things might not be perfect. The goal is to under
 
 ## If you like it
 
-Feel free to star the repo ⭐
+Feel free to star the repo 
