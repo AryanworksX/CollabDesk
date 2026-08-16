@@ -2,7 +2,7 @@
 
 A simple team collaboration tool.
 
----
+----
 
 ## About
 
@@ -10,7 +10,7 @@ CollabDesk is a full-stack project built to help teams manage their work in a si
 
 This project is mainly built for learning purposes, but it’s structured in a way that can be extended into a real-world application.
 
----
+----
 
 ## Features
 
