@@ -28,7 +28,7 @@ This project is mainly built for learning purposes, but it’s structured in a w
 * Dashboard view
 * Task board (Kanban layout)
 
----
+----
 
 ## Tech Stack
 
